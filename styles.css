@@ -1,0 +1,7 @@
+.skin-pip-unlocked {
+    background: linear-gradient(180deg,rgba(1,10,19,0),rgba(1,10,19,.47)),linear-gradient(0deg,#44bd32,#44bd32); 
+}
+
+.skin-selection-indicator-selector-unlocked {
+    background-image: url("./assets/skin-carousel-pip-unlocked.png");
+}
